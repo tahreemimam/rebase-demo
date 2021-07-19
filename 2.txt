@@ -1,3 +1,1 @@
-All incoming and current chage dicarded
-
-We have kept new changes
+Some changes in file 2 in feature3 branch
