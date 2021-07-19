@@ -1,1 +1,2 @@
-Third change in file 1 in detached head state
+Changed file1 in faeture 3 barnch for second time
+
