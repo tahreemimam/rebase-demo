@@ -1,1 +1,1 @@
-second change in file 1
+Third change in file 1 in detached head state
