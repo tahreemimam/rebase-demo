@@ -1,1 +1,1 @@
-Some changes in file 2 in feature1 branch
+Some changes in file 2 in master branch
